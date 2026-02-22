@@ -55,13 +55,3 @@ report_example@gmail.com_20260222_120000.txt
 ```
 
 ---
-
-بعد ما تحفظ الملف، شغّل هذي الأوامر:
-```
-git add README.md
-```
-```
-git commit -m "add README"
-```
-```
-git push
